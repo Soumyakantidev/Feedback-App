@@ -1,7 +1,6 @@
 import React from "react";
 import Card from "../Components/shared/Card";
 import { Link } from "react-router-dom";
-import { useEffect } from "react";
 
 const About = () => {
   return (
